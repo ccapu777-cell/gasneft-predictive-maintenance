@@ -212,3 +212,5 @@ To use real NASA C-MAPSS data, download from the [NASA Prognostics Data Reposito
 ## License
 
 MIT
+#   s h o w c a s e _ g u i d e  
+ 
